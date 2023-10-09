@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lava
+  - Platform
+  - Spike
+  - Void
+  - Next level door
+  - Old door
+  - Platform Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Level Door
+    uniqueID: 1883896579
+    locked: 0
+  - name: Platforms
+    uniqueID: 1066877941
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2884034613
+    locked: 0
+  - name: Player
+    uniqueID: 1398215219
+    locked: 0
+  - name: Borders
+    uniqueID: 608916531
+    locked: 0
+  - name: Void
+    uniqueID: 2156929967
+    locked: 0
